@@ -1,0 +1,5 @@
+backups/
+*.cbk
+*.db
+__pycache__/
+.venv/
